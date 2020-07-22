@@ -1,4 +1,4 @@
-.h_util {position: absolute;}
+.h_util {position: absolute; margin-bottom: 15px;}
 .h_util:after {clear: both; content: ""; display: block;}
 .h_util li {float: left; margin-left: 15px;}
 .h_util a {font-size: 8px; color: #989898;}
