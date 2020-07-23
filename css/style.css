@@ -1,9 +1,12 @@
-.h_util {position: absolute; margin-bottom: 15px;}
+.h_util {position: absolute; margin-bottom: }
 .h_util:after {clear: both; content: ""; display: block;}
 .h_util li {float: left; margin-left: 15px;}
-.h_util a {font-size: 8px; color: #989898;}
+.h_util a {font-size: 15px; color: #989898;}
 
-img { width: 15em ; height: auto;}
+img { width: 30em ; height: 280px;}
+
+p { color: red; }
+
 
 
 
