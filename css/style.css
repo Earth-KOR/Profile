@@ -1,7 +1,7 @@
 .h_util {position: absolute; margin-bottom: }
 .h_util:after {clear: both; content: ""; display: block;}
-.h_util li {float: left; margin-left: 10px;}
-.h_util a {font-size: 10px; color: #989898;}
+.h_util li {float: left; margin-left: 3px;}
+.h_util a {font-size: 14px; color: #989898;}
 
 img { width: 20em ; height: 280px;}
 
